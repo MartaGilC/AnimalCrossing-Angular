@@ -1,0 +1,8 @@
+.navbar-box {
+  display: flex;
+  justify-content: space-around;
+}
+.navbar-box .a-navbar {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=navbar.component.css.map */
